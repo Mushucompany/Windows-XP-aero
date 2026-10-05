@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Windows XP Aero RTM-2024-02-22-13-21-40.png" source="original">
+    <mtime>1708629548</mtime>
+    <size>2554380</size>
+    <md5>55c526463a63727c51cb552ca661b01a</md5>
+    <crc32>1b8a024d</crc32>
+    <sha1>cb19459b595cc4f79f25439f840cad98deb94b6a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Windows XP Aero RTM-2024-02-22-13-21-40_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Windows XP Aero RTM-2024-02-22-13-21-40.png</original>
+    <mtime>1708629773</mtime>
+    <size>7301</size>
+    <md5>bed17be37d3633db1b5dfdd08473a13a</md5>
+    <crc32>5f43d662</crc32>
+    <sha1>802351f43fd444c137353f203847bd3c413ba200</sha1>
+  </file>
+  <file name="Windows XP Aero RTM.iso" source="original">
+    <mtime>1708629526</mtime>
+    <size>1057685504</size>
+    <md5>1823b50f9f9f119498cab21fb9d4148d</md5>
+    <crc32>d25dafac</crc32>
+    <sha1>275c696b5d4f8c6b694508cdffcc4425cdf885ca</sha1>
+    <format>ISO Image</format>
+    <filecount>7509</filecount>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1708629579</mtime>
+    <size>11763</size>
+    <md5>10586d2ad3dfd18f438a863779f43d9c</md5>
+    <crc32>33c6a8e8</crc32>
+    <sha1>e316c5db1479f778260abdfa69fc67c0c3968f37</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="windows-xp-aero-rtm_archive.torrent" source="metadata">
+    <btih>9bd004afb947f1396f22454cec8051e7476418b8</btih>
+    <mtime>1782455901</mtime>
+    <size>42734</size>
+    <md5>58f5239bc834b38cd2bc8092cb8c48e7</md5>
+    <crc32>7ab6cb77</crc32>
+    <sha1>3f9087ddec9461914e83fbda7bf4cd3216c5e176</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="windows-xp-aero-rtm_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>30422b2c83096d7baad5ec08f8d4e248</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="windows-xp-aero-rtm_meta.sqlite" source="original">
+    <mtime>1708629562</mtime>
+    <size>20480</size>
+    <md5>677c067840c71bbb7aaa1a858c5ca9c9</md5>
+    <crc32>1087ba01</crc32>
+    <sha1>3abe78b8c2d0e3cadf3220c9e5333f5d10058055</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="windows-xp-aero-rtm_meta.xml" source="original">
+    <mtime>1764212426</mtime>
+    <size>973</size>
+    <md5>256acc03b935962dd1ce969941858ade</md5>
+    <crc32>0e089518</crc32>
+    <sha1>f83a0cb030b23f5370d062e03ec9435c34485de2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="windows-xp-aero-rtm_reviews.xml" source="original">
+    <mtime>1782455890</mtime>
+    <size>1151</size>
+    <md5>036bfe77293556b090bdc72b55716c43</md5>
+    <crc32>5919958d</crc32>
+    <sha1>036ecb1bd438097e367011fb55a6f4b09e3f78c7</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
